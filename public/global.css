@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-size: cover !important;
+    background-image: url("background.jpeg") !important;
+}
+
+* {
+    font-family: cursive !important;
+}
